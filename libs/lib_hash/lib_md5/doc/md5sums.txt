@@ -1,0 +1,7 @@
+d791352694374f1c478779f7f4447a3f *ubuntu-12.04-desktop-i386.iso
+
+file: md5_test1.txt
+MD5: 5a105e8b9d40e1329780d62ea2265d8a
+
+file: md5_test2.txt
+MD5: ad0234829205b9033196ba818f7a872b
